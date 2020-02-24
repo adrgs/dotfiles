@@ -1,0 +1,7 @@
+[include]
+	path = /home/adragos/.gitconfig.static
+[user]
+	name = adrgs
+	email = albastroiudragos@gmail.com
+[credential]
+	helper = cache
